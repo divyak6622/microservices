@@ -1,0 +1,7 @@
+app_name    = "greetings"
+image_name  = "greetings"
+port        = "9292"
+dns_name    = "test"
+env         = "test"
+ssh_key     = "devops"
+aws_region  = "us-east-1"
